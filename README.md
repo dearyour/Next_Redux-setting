@@ -1,7 +1,7 @@
 https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript
 
 SSR을 위한
-_document 참고
+_document 부분 참고
 
 ---
 상태관리를 위해 추가적으로 
